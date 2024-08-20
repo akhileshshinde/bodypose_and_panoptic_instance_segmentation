@@ -26,12 +26,10 @@
 3. Run the notebook to perform human pose estimation and panoptic segmentation.
 
 ### Example Images
-* **kakade.jpeg:** An example image of my friend Kakade with both body pose estimation applied.
-* **kakade_seg.jpeg:** An example image of my friend Kakade with only panoptic segmentation applied.
-* **kalpesh.jpeg:** An example image of my friend Kalpesh with both body pose estimation applied.
-* **kalpesh_seg.jpeg:** An example image of my friend Kalpesh with only panoptic segmentation applied.
-* **me.jpeg:** An example image of myself with both body pose estimation applied.
-* **me_seg.jpeg:** An example image of myself with only panoptic segmentation applied.
+* **kakade.png:** An example image of my friend Kakade with both body pose estimation applied.
+* **kakade_seg.png:** An example image of my friend Kakade with only panoptic segmentation applied.
+* **kalpesh_seg.png:** An example image of my friend Kalpesh with only panoptic segmentation applied.
+* **me_seg.png:** An example image of myself with only panoptic segmentation applied.
 
 ### Models
 * **Human Pose Estimation:** COCO-Keypoints/keypoint_rcnn_R_50_FPN_3x.yaml
